@@ -1,1 +1,1 @@
-def parrot(compliment, "Squak")
+def parrot
